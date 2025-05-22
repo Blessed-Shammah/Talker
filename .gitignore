@@ -1,2 +1,4 @@
 # PyInstaller build files
-talker.spec build/ dist/
+talker.spec
+build/
+dist/
